@@ -13,4 +13,4 @@ Hi, I'm Ritika Mohan 👋<br><br>Software Engineer at HCLTech with 5+ years of e
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RitikaMohan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RitikaMohan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github.com/users/RitikaMohan/achievements/pull-shark)
